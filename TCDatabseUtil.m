@@ -1,6 +1,5 @@
 //
 //  TCDatabseUtil.m
-//  融云-Demo
 //
 //  Created by TailC on 16/5/16.
 //  Copyright © 2016年 TailC. All rights reserved.
